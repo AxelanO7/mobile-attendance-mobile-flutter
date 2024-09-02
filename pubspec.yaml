@@ -44,6 +44,9 @@ flutter_launcher_icons:
   image_path: "resources/logo_think_foward_black.png"
   image_path_android: "resources/logo_think_foward_black.png"
 
+dependency_overrides:
+  fading_edge_scrollview: ^4.1.1
+
 flutter:
   uses-material-design: true
 
